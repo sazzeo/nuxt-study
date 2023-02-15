@@ -8,6 +8,7 @@ const BASE_URL = 'https://api.nuxtjs.dev/mountains'
 const mountainRequest = axios.create({
   baseURL: BASE_URL,
   headers: {
+
     'Content-Type': 'application/json'
   },
   //   withCredentials: true, // for response with Set-Cookies works
