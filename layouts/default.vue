@@ -5,7 +5,6 @@
         Default & Not Mobile Layout
       </h1>
     </header>
-
     <slot />
   </div>
 </template>
