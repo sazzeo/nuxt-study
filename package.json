@@ -25,11 +25,16 @@
     "@vueuse/core": "^9.5.0",
     "@vueuse/nuxt": "^9.5.0",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.33.0",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-nuxt": "^3.2.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.4.0",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
     "msw": "^0.49.0",
-    "nuxt": "3.0.0"
+    "nuxt": "3.0.0",
+    "prettier": "^2.7.1"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.5",
